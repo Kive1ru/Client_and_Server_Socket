@@ -1,0 +1,5 @@
+# ninja log v5
+1	172	1653519785841620384	CMakeFiles/Assignment_5.dir/Client_Domain/Md5.c.o	d5cdc369c54e5622
+1	173	1653519785841620758	CMakeFiles/Assignment_5.dir/Server_Domain/Md5.c.o	7f7c61cafdc47865
+1	173	1653519785843127760	CMakeFiles/Assignment_5.dir/Client_Domain/client.c.o	ebf58ab2b9abb836
+1	174	1653519785845538429	CMakeFiles/Assignment_5.dir/Server_Domain/server.c.o	191649d80ced0cd0

@@ -1,0 +1,9 @@
+append hello.txt
+single_string
+close
+append untitle.txt
+sentence test line 1
+sentence test line 2
+sentence test line 3
+close
+quit

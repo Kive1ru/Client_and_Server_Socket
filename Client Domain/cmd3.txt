@@ -1,0 +1,19 @@
+upload 123.png
+upload untitle.txt
+upload hello.txt
+download 123.png
+download untitle.txt
+download hello.txt
+syncheck 123.png
+syncheck untitle.txt
+syncheck hello.txt
+append untitle.txt
+weqwqe
+ewqewq
+ewqewq
+pause 1
+dadaw
+pause 2
+close
+close
+quit
